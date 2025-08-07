@@ -1,0 +1,9 @@
+{
+  "pixels_per_meter": 72,
+  "readers": [
+    {
+      "x": 100,
+      "y": 150
+    }
+  ]
+}

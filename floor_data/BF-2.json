@@ -1,5 +1,5 @@
 {
-  "pixels_per_meter": 25,
+  "pixels_per_meter": 5,
   "readers": [
     {
       "x": 505,
@@ -51,3 +51,4 @@
     }
   ]
 }
+

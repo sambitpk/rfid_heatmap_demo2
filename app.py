@@ -10,6 +10,17 @@ from streamlit_drawable_canvas import st_canvas
 LAYOUT_FOLDER = "floor_layouts"
 DATA_FOLDER = "floor_data"
 FLOORS = {
+    "Basement CN-1": "BF-1",
+    "Ground Floor CN-1": "GF-1",
+    "1st Floor CN-1": "1F-1",
+    "2nd Floor CN-1": "2F-1",
+    "3rd Floor CN-1": "3F-1",
+    "4th Floor CN-1": "4F-1",
+    "5th Floor CN-1": "5F-1",
+    "6th Floor CN-1": "6F-1",
+    "7th Floor CN-1": "7F-1",
+    "8th Floor CN-1": "8F-1",
+    "9th Floor CN-1": "9F-1",
     "Basement CN-2": "BF-2",
     "Ground Floor CN-2": "GF-2",
     "1st Floor CN-2": "1F-2",
@@ -32,6 +43,17 @@ FLOORS = {
     "7th Floor CN-3": "7F-3",
     "8th Floor CN-3": "8F-3",
     "9th Floor CN-3": "9F-3",
+    "Basement CN-4": "BF-4",
+    "Ground Floor CN-4": "GF-4",
+    "1st Floor CN-4": "1F-4",
+    "2nd Floor CN-4": "2F-4",
+    "3rd Floor CN-4": "3F-4",
+    "4th Floor CN-4": "4F-4",
+    "5th Floor CN-4": "5F-4",
+    "6th Floor CN-4": "6F-4",
+    "7th Floor CN-4": "7F-4",
+    "8th Floor CN-4": "8F-4",
+    "9th Floor CN-4": "9F-4",
 }
 
 st.set_page_config(layout="wide")
